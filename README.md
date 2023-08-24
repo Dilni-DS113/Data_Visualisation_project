@@ -1,4 +1,4 @@
-# Data_Visualisation_project-
+# Data_Visualisation_project
 ## Authors: Dilni De Silva , Rubie Stannard
 ### Unit: COS30045
 A project within a team involved building a website displaying two charts related to law, order, and 
